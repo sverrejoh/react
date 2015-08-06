@@ -10,6 +10,8 @@ React is a JavaScript library for building user interfaces.
 
 ## Examples
 
+bla bla
+
 We have several examples [on the website](http://facebook.github.io/react/). Here is the first one to get you started:
 
 ```js
@@ -30,6 +32,9 @@ This example will render "Hello John" into a container on the page.
 You'll notice that we used an HTML-like syntax; [we call it JSX](http://facebook.github.io/react/docs/jsx-in-depth.html). JSX is not required to use React, but it makes code more readable, and writing it feels like writing HTML. A simple transform is included with React that allows converting JSX into native JavaScript for browsers to digest.
 
 ## Installation
+
+
+asdasdasdadsdas
 
 The fastest way to get started is to serve JavaScript from the CDN (also available on [cdnjs](https://cdnjs.com/libraries/react) and [jsdelivr](http://www.jsdelivr.com/#!react)):
 
